@@ -31,6 +31,7 @@ let vender = ''
 let num = 0
 let shopname = ''
 const token = [
+    'E3F2C69559B3F1F2651E577CF2A10DE2',
     'b629a40af8d749fda153659fa2ee3e31',
     '3F65C8C2574F9CC815956EFD58FAED1D',
     '8C1D9B1D97AB75D1704609271FD48AD0',//日签10豆,5天100豆
