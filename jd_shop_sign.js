@@ -31,6 +31,7 @@ let vender = ''
 let num = 0
 let shopname = ''
 const token = [
+    '38CAA415A8BB12D91A5F252C04383ADD',
     'E3F2C69559B3F1F2651E577CF2A10DE2',
     'b629a40af8d749fda153659fa2ee3e31',
     '3F65C8C2574F9CC815956EFD58FAED1D',
